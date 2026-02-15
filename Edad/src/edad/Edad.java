@@ -1,3 +1,4 @@
+// Barrera Correa Yolanda Michel
 package edad;
 
 import java.awt.event.ActionEvent;
@@ -49,3 +50,4 @@ public class Edad extends JFrame implements ActionListener {
         }
      }
 }
+
