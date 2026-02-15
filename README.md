@@ -1,2 +1,2 @@
-# Programaci-n-M-vil-1
+# Programacion Movil 1
 Tareas de Programación Móvil 1
