@@ -66,7 +66,7 @@ public class CalculadoraGrafica2 extends JFrame {
             double num1 = Double.parseDouble(n1.getText());
             double num2 = Double.parseDouble(n2.getText());
 
-            // Usam la clase Calculadora para sumar
+            // Usa la clase Calculadora para sumar
             Calculadora cc = new Calculadora();
             txtRes.setText(String.valueOf(cc.sumar(num1, num2))); // Muestra el resultado
         });
@@ -119,4 +119,5 @@ public class CalculadoraGrafica2 extends JFrame {
         CalculadoraGrafica2 cc2 = new CalculadoraGrafica2(); // Crea la ventana
         cc2.setVisible(true); // Hace visible la ventana
     }
+
 }
